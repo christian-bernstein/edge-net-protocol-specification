@@ -26,9 +26,12 @@ Edge-Net is a member of the application layer.
 
 
 
-<div align="center" style="display: flex; flex-direction: column">
+<div align="center">
     <a href="https://github.com/christian-bernstein/edge-net-protocol-specification/wiki">
         <button style="background-color: #FFCE61; border: none; border-radius: 9px; padding: 7px; cursor: pointer"><b>Get started</b></button>
     </a>
+</div>
+
+<div align="center">
     <i>(Head over to the project Wiki)<br>Everything you need to know will be there</i>
 </div>
