@@ -24,8 +24,11 @@
 ENP is used for standardized communication within a trusted software infrastructure cluster.
 Edge-Net is a member of the application layer.  
 
-<div align="center">
+
+
+<div align="center" style="display: flex; flex-direction: column">
     <a href="https://github.com/christian-bernstein/edge-net-protocol-specification/wiki">
-        <div style="background-color: #FFCE61; color: #FFCE61; border: none; border-radius: 9px; padding: 7px; cursor: pointer"><b>Get started</b></div>
+        <button style="background-color: #FFCE61; border: none; border-radius: 9px; padding: 7px; cursor: pointer"><b>Get started</b></button>
     </a>
+    <i>(Head over to the project Wiki)<br>Everything you need to know will be there</i>
 </div>
