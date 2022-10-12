@@ -1,4 +1,4 @@
-![bernie.enp](http://christian-bernstein.de/cdn/bernie/enp-github-banner.png)
+[![bernie.enp](http://christian-bernstein.de/cdn/bernie/enp-github-banner.png)
 
 <div align="center">
     <h1>Edge-Net-Protocol</h1>
@@ -10,15 +10,12 @@
     <br />
     <br />
 -->
+<!--
     <a href="https://www.prisma.io/docs/getting-started/quickstart">Quickstart</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-    <a href="https://www.prisma.io/">Website</a>
-    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-    <a href="https://www.prisma.io/docs/">Docs</a>
-    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+-->
     <a href="https://github.com/prisma/prisma-examples/">Wiki</a>
-    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-    <a href="https://www.prisma.io/blog">Blog</a>
+    <br />
     <br />
     <a href="https://www.prisma.io/docs/getting-started/quickstart">enp-java</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
@@ -67,3 +64,4 @@ ENP utilizes an IMUX[^IMUX] to hot-swap transport gates without causing the endp
 - sub((msg: byte[]) -> void)
 
 [^IMUX]: Inverse multiplexer ([Wikipedia](https://en.wikipedia.org/wiki/Inverse_multiplexer))
+]()
