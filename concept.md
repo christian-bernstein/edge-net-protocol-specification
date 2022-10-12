@@ -31,4 +31,4 @@ ENP utilizes an IMUX[^IMUX] to hot-swap transport gates without causing the endp
 - sub((msg: byte[]) -> void)
 
 [^IMUX]:
-    inverse multiplexer
+    > inverse multiplexer ([Wikipedia](https://en.wikipedia.org/wiki/Inverse_multiplexer))
