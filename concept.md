@@ -7,7 +7,7 @@ Edge-Net is a member of the application layer.
 
 ## Conversations
 
-## Language (Inheritance)
+## Language-Inheritance
 
 Like classes or interfaces in programming languages, ENP-Languages can also inherit from other ENP-Languages.
 Multiple 
@@ -16,7 +16,7 @@ Multiple
 
 ENP utilizes an inverse multiplexer (IMUX) to hot-swap transport gates without causing the endpoint to close. 
 <br>
-*Tip: The IMUX can be used as a clientside*
+*Tip: The IMUX can be used as a clientside *
 
 ### Specification
 - select(id: string)
