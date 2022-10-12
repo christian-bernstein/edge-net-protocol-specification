@@ -14,7 +14,7 @@ Multiple
 
 ## Endpoint-to-Transport-Gate-IMUX
 
-ENP utilizes an (IMUX) to hot-swap transport gates without causing the endpoint to close. 
+ENP utilizes an IMUX[^IMUX] to hot-swap transport gates without causing the endpoint to close. 
 <br>
 *Tip: The IMUX can be used as a clientside *
 
