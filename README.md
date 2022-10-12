@@ -23,7 +23,7 @@
 
 ENP is used for standardized communication within a trusted software infrastructure cluster.
 Edge-Net is a member of the application layer.  
-
+Out-of-the-box solutions for `Java`, `Rust` & `TypeScript` are currently under development.
 
 
 <br>
