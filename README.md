@@ -10,13 +10,8 @@
     <br />
     <br />
 -->
-<!--
-    <a href="https://www.prisma.io/docs/getting-started/quickstart">Quickstart</a>
-    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
--->
     <a href="https://github.com/prisma/prisma-examples/">Wiki</a>
-    <br />
-    <br />
+    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
     <a href="https://www.prisma.io/docs/getting-started/quickstart">enp-java</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
     <a href="https://www.prisma.io/">enp-rust</a>
@@ -28,3 +23,9 @@
 
 ENP is used for standardized communication within a trusted software infrastructure cluster.
 Edge-Net is a member of the application layer.  
+
+<div align="center">
+    <a href="https://github.com/christian-bernstein/edge-net-protocol-specification/wiki">
+        <button style="background-color: #FFCE61; border: none; border-radius: 9px; padding: 7px; cursor: pointer"><b>Get started</b></button>
+    </a>
+</div>
