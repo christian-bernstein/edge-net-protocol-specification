@@ -1,4 +1,4 @@
-[![bernie.enp](http://christian-bernstein.de/cdn/bernie/enp-github-banner.png)
+![bernie.enp](http://christian-bernstein.de/cdn/bernie/enp-github-banner.png)
 
 <div align="center">
     <h1>Edge-Net-Protocol</h1>
